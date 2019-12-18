@@ -35,7 +35,7 @@ apply plugin: 'com.jfrog.bintray'
 repositories {
     maven {
         name 'bintray-babayotakun-russianmorphology'
-        url "http://dl.bintray.com/babayotakun/russianmorphology"
+        url "https://dl.bintray.com/babayotakun/russianmorphology"
     }
 }
 
